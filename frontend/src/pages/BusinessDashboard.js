@@ -1,6 +1,6 @@
 import React from 'react';
 import BusinessOnboarding from '../components/BusinessOnboarding';
-import ConversationsList from '../components/ConversationsList';
+import ConversationsList from '../components/ConversationList';
 import Settings from '../components/Settings';
 import Analytics from '../components/Analytics';
 

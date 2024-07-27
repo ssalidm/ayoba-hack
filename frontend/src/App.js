@@ -12,7 +12,7 @@ const App = () => {
       <Navbar />
       <div className="container mt-4">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Home/>} />
           <Route path="/business-dashboard" element={<BusinessDashboard />} />
           <Route path="/customer-chat" element={<CustomerChat />} />
         </Routes>
